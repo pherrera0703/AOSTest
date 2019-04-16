@@ -1,0 +1,12 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="nimbusserver" locator="//BrowserApplication" urlPattern="*nimbusserver*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="20" locator="//img[@id=&apos;20&apos;]"/>
+      <ObjectMapEntry id="CONTINUE SHOPPING" locator="//a[@textContents=&apos;CONTINUE SHOPPING&apos;]"/>
+      <ObjectMapEntry id="menuCart" locator="//svg[@id=&apos;menuCart&apos;]"/>
+      <ObjectMapEntry id="REMOVE" locator="//a[@textContents=&apos;REMOVE&apos;]"/>
+      <ObjectMapEntry id="save_to_cart" locator="//button[@name=&apos;save_to_cart&apos;]"/>
+      <ObjectMapEntry id="speakersImg" locator="//div[@id=&apos;speakersImg&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
